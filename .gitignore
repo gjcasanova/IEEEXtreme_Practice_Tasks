@@ -1,0 +1,8 @@
+# Virtual enviroment
+/venv/
+
+# Input file
+/input.txt
+
+# Visual Studio Code files
+/.vscode/
