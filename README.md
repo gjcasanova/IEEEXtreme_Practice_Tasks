@@ -16,7 +16,7 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  8. [Fibonacci](https://csacademy.com/ieeextreme-practice/task/09f92a575cc006d4a6a7f525f370ec30/) 100 pts.
  9. [Lemons](https://csacademy.com/ieeextreme-practice/task/lemons/) 100 pts.
  10. [Minimum Permutation](https://csacademy.com/ieeextreme-practice/task/minimum-permutation/) 100 pts.
- 11. [Monokeros](https://csacademy.com/ieeextreme-practice/task/monokeros/) 25 pts.
+ 11. [Monokeros](https://csacademy.com/ieeextreme-practice/task/monokeros/) 100 pts.
  12. [RecXor](https://csacademy.com/ieeextreme-practice/task/f8d68dbb0c844910797ce64354c66143/) 100 pts.
  13. [Rumour](https://csacademy.com/ieeextreme-practice/task/9ca8fafd184f553a903734761546a224/) 100 pts.
  14. [Running Up Stairs](https://csacademy.com/ieeextreme-practice/task/96c8b1313edd72abf600facb0a14dbab/) 100 pts.
