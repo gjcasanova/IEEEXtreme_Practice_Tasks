@@ -13,7 +13,7 @@ def input_data():
     return prices, budget
 
 
-def resolve(prices, budget):
+def solve(prices, budget):
     def calc_max_price(prices, budget, current=0, acum_price=0):
         if current == len(prices):
             return acum_price
@@ -47,7 +47,7 @@ def main():
     number_of_cases = int(input())
     for _ in range(number_of_cases):
         prices, budget = input_data()
-        print(resolve(prices, budget))
+        print(solve(prices, budget))
 
 
 if __name__ == '__main__':

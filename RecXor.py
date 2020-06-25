@@ -1,4 +1,4 @@
-def resolve(width, height, start, diagonal_init, diagonal_finsih):
+def solve(width, height, start, diagonal_init, diagonal_finsih):
     def xor(number):
         number -= 1
         case = number % 4
@@ -47,7 +47,7 @@ def main():
     for _ in range(number_of_cases):
         width, height, start, diagonal_init, diagonal_finsih = map(
             int, input().split())
-        print(resolve(width, height, start, diagonal_init, diagonal_finsih))
+        print(solve(width, height, start, diagonal_init, diagonal_finsih))
 
 
 if __name__ == '__main__':

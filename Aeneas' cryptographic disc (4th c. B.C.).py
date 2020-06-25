@@ -1,7 +1,7 @@
 import math
 
 
-def resolve(alphabet, radius, message):
+def solve(alphabet, radius, message):
     def calc_distance(angle_a, angle_b, radius):
         angle = (180-abs(angle_a-angle_b))*math.pi/360
         distance = 2*radius*math.cos(angle)
@@ -32,7 +32,7 @@ def main():
         alphabet.update({letter: angle})
     message = clean_message(input(), alphabet.keys())
 
-    print(resolve(alphabet, radius, message))
+    print(solve(alphabet, radius, message))
 
 
 if __name__ == '__main__':

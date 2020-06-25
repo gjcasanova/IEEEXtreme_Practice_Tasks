@@ -1,4 +1,4 @@
-def resolve(number_of_pairs):
+def solve(number_of_pairs):
     def find(key, iterable, index=0):
         for element in iterable:
             if element[index] == key:
@@ -53,7 +53,7 @@ def resolve(number_of_pairs):
 
 def main():
     number_of_pairs = int(input())
-    resolve(number_of_pairs)
+    solve(number_of_pairs)
 
 
 if __name__ == '__main__':

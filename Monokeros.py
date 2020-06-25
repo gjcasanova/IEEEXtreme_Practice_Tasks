@@ -1,4 +1,4 @@
-def resolve(elements):
+def solve(elements):
 
     def search_node(nodes, value):
         result = tuple()
@@ -21,7 +21,7 @@ def resolve(elements):
 def main():
     number_of_elements = int(input())
     elements = map(int, input().split())
-    resolve(elements)
+    solve(elements)
 
 
 if __name__ == '__main__':

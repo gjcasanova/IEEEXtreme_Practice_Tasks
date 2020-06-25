@@ -80,7 +80,7 @@ class Tree():
         return tree
 
 
-def resolve(infix, prefix):
+def solve(infix, prefix):
     tree = Tree.generate_tree(infix, prefix)
     Tree.print(tree)
 
@@ -90,7 +90,7 @@ def main():
         try:
             infix = input()
             prefix = input()
-            resolve(infix, prefix)
+            solve(infix, prefix)
         except EOFError:
             break
 

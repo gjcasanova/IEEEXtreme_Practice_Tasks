@@ -29,5 +29,5 @@ def main():
     print_query(sequence, 'A')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

@@ -1,4 +1,4 @@
-def resolve(pair):
+def solve(pair):
     node_a, node_b = pair
     result = 0
     while node_a != node_b:
@@ -14,7 +14,7 @@ def main():
     number_of_cases = int(input())
     for iterator in range(number_of_cases):
         level_a, level_b = input().split()
-        print(resolve((int(level_a), int(level_b))))
+        print(solve((int(level_a), int(level_b))))
 
 
 if __name__ == '__main__':
