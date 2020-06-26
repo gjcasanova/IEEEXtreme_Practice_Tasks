@@ -23,3 +23,4 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  15. [Troll Coder](https://csacademy.com/ieeextreme-practice/task/troll-coder/) 100 pts.
  16. [Vangelis the Batbear and the Bubbles challenge](https://csacademy.com/ieeextreme-practice/task/979a09a0cd8c4e98dd0a690f39a55bd2/) 100 pts.
  17. [Xtreme Rappers](https://csacademy.com/ieeextreme-practice/task/xtreme-rappers/) 100 pts.
+ 18. [Impact Factor](https://csacademy.com/ieeextreme-practice/task/impact-factor/) 100 pts.
