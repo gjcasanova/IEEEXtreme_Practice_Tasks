@@ -1,5 +1,5 @@
 # Virtual enviroment
-/venv/
+/.venv/
 
 # Input file
 /input.txt

@@ -24,3 +24,6 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  16. [Vangelis the Batbear and the Bubbles challenge](https://csacademy.com/ieeextreme-practice/task/979a09a0cd8c4e98dd0a690f39a55bd2/) 100 pts.
  17. [Xtreme Rappers](https://csacademy.com/ieeextreme-practice/task/xtreme-rappers/) 100 pts.
  18. [Impact Factor](https://csacademy.com/ieeextreme-practice/task/impact-factor/) 100 pts.
+ 19. [Bit Soccer](https://csacademy.com/ieeextreme-practice/task/bit-soccer/) 100 pts.
+ 20. [Xplore](https://csacademy.com/ieeextreme-practice/task/xplore/) 70 pts.
+ 21. [Telescope Scheduling](https://csacademy.com/ieeextreme-practice/task/telescope-scheduling/) 4.76 pts.
