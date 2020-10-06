@@ -1,10 +1,11 @@
 # IEEEXtreme Practice Tasks
 This repository contains the resolution of any practice tasks of IEEEXtreme.
+The exercises are solved in Python 3 or C++.
 
 For more information about this competition: [IEEEXtreme site](https://ieeextreme.org/).
 For more information about the practice tasks:  [IEEEXtreme practice tasks](https://csacademy.com/ieeextreme-practice/).
 
-# Files
+# Folders
 
  1. [Aeneas' cryptographic disc (4th c. B.C.)](https://csacademy.com/ieeextreme-practice/task/d48ada9a7213299f1b24b22b2fb9443f/) 100 pts.
  2. [Bear Sums](https://csacademy.com/ieeextreme-practice/task/bear-sums/) 100 pts.
