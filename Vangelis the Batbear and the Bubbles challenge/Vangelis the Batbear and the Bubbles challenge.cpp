@@ -45,7 +45,7 @@ int travel(int pre, int current, int **adjMat, int size, vector<int> visited)
     if (find(visited.begin(), visited.end(), current) != visited.end())
         return 1;
 
-    visited.insert(visited.end(), current);
+    visited.push_back(current);
 
     int *destinies = adjMat[current];
 
