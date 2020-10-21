@@ -11,7 +11,7 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  2. [Bear Sums](https://csacademy.com/ieeextreme-practice/task/bear-sums/) 100 pts.
  3. [BeetleBag](https://csacademy.com/ieeextreme-practice/task/ed8629419f140a5a2c923b049aba1224/) 100 pts.
  4. [Blackgate Penitentiary](https://csacademy.com/ieeextreme-practice/task/8761fb7efefcf1d890df1d8d91cae241/) 100 pts.
- 5. [Charlie New PC](https://csacademy.com/ieeextreme-practice/task/charlie-new-pc/) 58.82 pts.
+ 5. [Charlie New PC](https://csacademy.com/ieeextreme-practice/task/charlie-new-pc/) 70.59 pts.
  6. [Concentration Game](https://csacademy.com/ieeextreme-practice/task/concentration-game/) 100 pts.
  7. [Drawing Rooted Binary Trees](https://csacademy.com/ieeextreme-practice/task/drawing-rooted-binary-trees/) 100 pts.
  8. [Fibonacci](https://csacademy.com/ieeextreme-practice/task/09f92a575cc006d4a6a7f525f370ec30/) 100 pts.
@@ -28,3 +28,4 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  19. [Bit Soccer](https://csacademy.com/ieeextreme-practice/task/bit-soccer/) 100 pts.
  20. [Xplore](https://csacademy.com/ieeextreme-practice/task/xplore/) 70 pts.
  21. [Telescope Scheduling](https://csacademy.com/ieeextreme-practice/task/telescope-scheduling/) 4.76 pts.
+ 22. [Preparing for Xtreme 12.0](https://csacademy.com/ieeextreme-practice/task/72a7d67e7e18f4f7d033f7f5a5a09bef) 100 pts.
