@@ -30,3 +30,4 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  21. [Telescope Scheduling](https://csacademy.com/ieeextreme-practice/task/telescope-scheduling/) 100 pts.
  22. [Preparing for Xtreme 12.0](https://csacademy.com/ieeextreme-practice/task/72a7d67e7e18f4f7d033f7f5a5a09bef) 100 pts.
  23. [Mosaic Decoration I](https://csacademy.com/ieeextreme-practice/task/mosaic1/) 100 pts.
+ 24. [Crafting Wooden Tables](https://csacademy.com/ieeextreme-practice/task/crafting-wooden-tables/) 100 pts.
