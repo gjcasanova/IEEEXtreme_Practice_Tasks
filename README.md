@@ -32,3 +32,4 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  23. [Mosaic Decoration I](https://csacademy.com/ieeextreme-practice/task/mosaic1/) 100 pts.
  24. [Crafting Wooden Tables](https://csacademy.com/ieeextreme-practice/task/crafting-wooden-tables/) 100 pts.
  25. [Game of Life](https://csacademy.com/ieeextreme-practice/task/d12a7784af1a3d3f6d88601c81a4bb81/) 100 pts.
+ 26. [Let’s Cheer Up Bob](https://csacademy.com/ieeextreme-practice/task/ca9bc49133da9c3c90df045f4ea8fdd3/) 100 pts.
