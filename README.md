@@ -33,4 +33,5 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  24. [Crafting Wooden Tables](https://csacademy.com/ieeextreme-practice/task/crafting-wooden-tables/) 100 pts.
  25. [Game of Life](https://csacademy.com/ieeextreme-practice/task/d12a7784af1a3d3f6d88601c81a4bb81/) 100 pts.
  26. [Let’s Cheer Up Bob](https://csacademy.com/ieeextreme-practice/task/ca9bc49133da9c3c90df045f4ea8fdd3/) 100 pts.
- 26. [Gotta Catch 'Em All](https://csacademy.com/ieeextreme-practice/task/e610aba28810ebcf2d3998692269b5a0/) 100 pts.
+ 27. [Gotta Catch 'Em All](https://csacademy.com/ieeextreme-practice/task/e610aba28810ebcf2d3998692269b5a0/) 100 pts.
+ 28. [Painter's Dilemma](https://csacademy.com/ieeextreme-practice/task/painters-dilemma/) 100 pts.
