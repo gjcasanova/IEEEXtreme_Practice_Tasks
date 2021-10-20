@@ -26,7 +26,7 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  17. [Xtreme Rappers](https://csacademy.com/ieeextreme-practice/task/xtreme-rappers/) 100 pts.
  18. [Impact Factor](https://csacademy.com/ieeextreme-practice/task/impact-factor/) 100 pts.
  19. [Bit Soccer](https://csacademy.com/ieeextreme-practice/task/bit-soccer/) 100 pts.
- 20. [Xplore](https://csacademy.com/ieeextreme-practice/task/xplore/) 70 pts.
+ 20. [Xplore](https://csacademy.com/ieeextreme-practice/task/xplore/) 100 pts.
  21. [Telescope Scheduling](https://csacademy.com/ieeextreme-practice/task/telescope-scheduling/) 100 pts.
  22. [Preparing for Xtreme 12.0](https://csacademy.com/ieeextreme-practice/task/72a7d67e7e18f4f7d033f7f5a5a09bef) 100 pts.
  23. [Mosaic Decoration I](https://csacademy.com/ieeextreme-practice/task/mosaic1/) 100 pts.
