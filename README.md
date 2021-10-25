@@ -35,3 +35,4 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  26. [Let’s Cheer Up Bob](https://csacademy.com/ieeextreme-practice/task/ca9bc49133da9c3c90df045f4ea8fdd3/) 100 pts.
  27. [Gotta Catch 'Em All](https://csacademy.com/ieeextreme-practice/task/e610aba28810ebcf2d3998692269b5a0/) 100 pts.
  28. [Painter's Dilemma](https://csacademy.com/ieeextreme-practice/task/painters-dilemma/) 100 pts.
+ 29. [Rigged Dice](https://csacademy.com/ieeextreme-practice/task/rigged-dice/) 100 pts.

@@ -1,82 +1,72 @@
-#include <iostream>
-#include <algorithm>
+#include <bits/stdc++.h>
 
 using namespace std;
 
-int calcMaxPrice(int, int, int **, int *, int, int, int);
+long long b, result;
+int n;
+vector<int> sizes;
+vector<vector<long long>> prices;
+
+void solve(int, long long);
 
 int main(int argc, char const *argv[])
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-
-    int t, b, n, result, _min, _max;
-
+    int t;
     cin >> t;
 
-    for (int i = 0; i < t; i++)
+    while (t--)
     {
         cin >> b;
         cin >> n;
-        _min = _max = 0;
+        sizes = vector<int>(n);
+        prices.clear();
+        result = 0;
 
-        int *sizes = new int[n];
-        int **prices = new int *[n];
-
-        for (int j = 0; j < n; j++)
+        for (int i = 0; i < n; i++)
         {
-            cin >> sizes[j];
-            int a = 1 / (sizes[j] - 1);
-            prices[j] = new int[sizes[j]];
+            cin >> sizes[i];
+            prices.push_back(vector<long long>(sizes[i]));
         }
 
-        for (int j = 0; j < n; j++)
+        for (int i = 0; i < n; i++)
         {
-            for (int k = 0; k < sizes[j]; k++)
+            for (int j = 0; j < sizes[i]; j++)
             {
-                cin >> prices[j][k];
-                
+                cin >> prices[i][j];
             }
-            sort(prices[j], prices[j] + sizes[j]);
-            // _min += prices[j][0];
-            _max += prices[j][sizes[j] - 1];
         }
 
-        // cout << _min << " " << _max << endl;
-
-        result = b - calcMaxPrice(b, 0, prices, sizes, n, _min, _max);
-        cout << (result < 0 ? 0 : result) << endl;
+        solve(0, 0);
+        cout << result << endl;
     }
+
     return 0;
 }
 
-int calcMaxPrice(int b, int index, int **matrix, int *sizes, int size_s, int _min, int _max)
+void solve(int componentIdx, long long accum)
 {
-    if (index == size_s)
-        return b;
-
-    if (_max <= b)
-        return b - _max;
-
-    if (_min > b)
-        return 2000000001;
-
-    int *options = matrix[index];
-    int result = 2000000001, auxiliar;
-
-    _min -= options[0];
-    _max -= options[sizes[index] - 1];
-
-    for (int i = 0; i < sizes[index]; i++)
+    if (componentIdx == n)
     {
-        if (options[i] <= b)
-        {
-            auxiliar = calcMaxPrice(b - options[i], index + 1, matrix, sizes, size_s, _min, _max);
-            result = min(result, auxiliar);
+        result = max(accum, result);
+        return;
+    }
 
-            if (result == 0)
-                return result;
+    for (int i = 0; i < prices[componentIdx].size(); i++)
+    {
+        long long newAccum = prices[componentIdx][i] + accum;
+        if (newAccum <= b)
+        {
+            solve(componentIdx + 1, newAccum);
         }
     }
-    return result;
+
+    // result = 0;
+    // for (int i = 0; i < prices.size(); i++)
+    // {
+    //     for (int j = 0; j < prices[i].size(); j++)
+    //     {
+    //         cout << prices[i][j] << " ";
+    //     }
+    //     cout << endl;
+    // }
 }
