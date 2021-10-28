@@ -36,3 +36,4 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  27. [Gotta Catch 'Em All](https://csacademy.com/ieeextreme-practice/task/e610aba28810ebcf2d3998692269b5a0/) 100 pts.
  28. [Painter's Dilemma](https://csacademy.com/ieeextreme-practice/task/painters-dilemma/) 100 pts.
  29. [Rigged Dice](https://csacademy.com/ieeextreme-practice/task/rigged-dice/) 100 pts.
+ 30. [Word Search](https://csacademy.com/ieeextreme-practice/task/wordsearch/) 100 pts.
