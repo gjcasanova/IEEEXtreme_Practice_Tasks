@@ -37,3 +37,4 @@ For more information about the practice tasks:  [IEEEXtreme practice tasks](http
  28. [Painter's Dilemma](https://csacademy.com/ieeextreme-practice/task/painters-dilemma/) 100 pts.
  29. [Rigged Dice](https://csacademy.com/ieeextreme-practice/task/rigged-dice/) 100 pts.
  30. [Word Search](https://csacademy.com/ieeextreme-practice/task/wordsearch/) 100 pts.
+ 30. [Gaius Letters](https://csacademy.com/ieeextreme-practice/task/gaius-letters/) 100 pts.
